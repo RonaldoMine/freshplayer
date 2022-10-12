@@ -1,4 +1,4 @@
-# Chrnomometer
+# Fresh Media Player
 
 To build Simple Music Player
 
